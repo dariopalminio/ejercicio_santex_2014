@@ -16,7 +16,7 @@ Eclipse:
 Eclipse Java EE IDE for Web Developers. Version: 
 Luna Release (4.4.0) Build id: 20140612-0600
 
-System operative:
+Operating system:
 Microsoft Windows [Versión 6.1.7601]
 Copyright (c) 2009 Microsoft Corporation. Reservados todos los derechos.
 
