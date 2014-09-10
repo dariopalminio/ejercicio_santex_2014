@@ -34,5 +34,7 @@ Java home: C:\Program Files\Java\jdk1.7.0_60\jre
 Default locale: es_AR, platform encoding: Cp1252
 OS name: "windows 7", version: "6.1", arch: "x86", family: "windows"
 
+git --version
+git version 1.9.4.msysgit.1
 
 
